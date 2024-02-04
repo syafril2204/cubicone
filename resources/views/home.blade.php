@@ -20,10 +20,14 @@
               <div class="container text-white">
                 <div class="row align-items-center">
                     <div class="col-lg-6 sm-mb-30">
-                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block">Special Price</span>Presidential Suite</h1>
-                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Room size: 30 ft, 1 King Bed or 2 Single Bed, View Beach, Breakfast Included</p>
+                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block"></span>Rumah Anda ketika
+                            jauh dari rumah.</h1>
+                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Selamat datang di hotel kapsul kami yang unik, "Rumah Anda ketika
+                            jauh dari rumah." Kami tawarkan kenyamanan dan inovasi dalam kapsul
+                            ergonomis dengan privasi, fasilitas modern, dan layanan ramah untuk
+                            pengalaman menginap tak terlupakan.</p>
                         <div class="spacer-10"></div>
-                        <a href="explore.html" class="btn-line wow fadeInRight" data-wow-delay=".6s">View Room Details</a>
+                        <a href="/" class="btn-line wow fadeInRight" data-wow-delay=".6s">Selengkapnya </a>
                     </div>
                     <!-- <div class="col-lg-6">
                         <img src="images/room/6.jpg" class="img-fluid wow fadeInRight" data-wow-delay=".6s" alt="">
@@ -41,10 +45,14 @@
               <div class="container text-white">
                 <div class="row align-items-center">
                     <div class="col-lg-6 sm-mb-30">
-                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block">Best Seller</span>Premier Room</h1>
-                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Room size: 30 ft, 1 King Bed or 2 Single Bed, View Beach, Breakfast Included</p>
+                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block"></span>Rumah Anda ketika
+                            jauh dari rumah.</h1>
+                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Selamat datang di hotel kapsul kami yang unik, "Rumah Anda ketika
+                            jauh dari rumah." Kami tawarkan kenyamanan dan inovasi dalam kapsul
+                            ergonomis dengan privasi, fasilitas modern, dan layanan ramah untuk
+                            pengalaman menginap tak terlupakan.</p>
                         <div class="spacer-10"></div>
-                        <a href="explore.html" class="btn-line wow fadeInRight" data-wow-delay=".6s">View Room Details</a>
+                        <a href="/" class="btn-line wow fadeInRight" data-wow-delay=".6s">Selengkapnya </a>
                     </div>
                     {{-- <div class="col-lg-6">
                         <img src="images/room/3.jpg" class="img-fluid wow fadeInRight" data-wow-delay=".6s" alt="">
@@ -62,10 +70,14 @@
               <div class="container text-white">
                 <div class="row align-items-center">
                     <div class="col-lg-6 sm-mb-30">
-                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block">Special Price</span>Family Suite</h1>
-                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Room size: 30 ft, 1 King Bed or 2 Single Bed, View Beach, Breakfast Included</p>
+                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block"></span>Rumah Anda ketika
+                            jauh dari rumah.</h1>
+                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Selamat datang di hotel kapsul kami yang unik, "Rumah Anda ketika
+                            jauh dari rumah." Kami tawarkan kenyamanan dan inovasi dalam kapsul
+                            ergonomis dengan privasi, fasilitas modern, dan layanan ramah untuk
+                            pengalaman menginap tak terlupakan.</p>
                         <div class="spacer-10"></div>
-                        <a href="explore.html" class="btn-line wow fadeInRight" data-wow-delay=".6s">View Room Details</a>
+                        <a href="/" class="btn-line wow fadeInRight" data-wow-delay=".6s">Selengkapnya </a>
                     </div>
                     {{-- <div class="col-lg-6">
                         <img src="images/room/4.jpg" class="img-fluid wow fadeInRight" data-wow-delay=".6s" alt="">
@@ -96,11 +108,11 @@
     <!-- float text begin -->
     <div class="float-text">
         <div class="de_social-icons">
-            <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-            <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
+            <a href="#"><i class="fa fa-phone fa-lg"></i></a>
+            <a href="#"><i class="fa fa-whatsapp fa-lg"></i></a>
             <a href="#"><i class="fa fa-instagram fa-lg"></i></a>
         </div>
-        <span><a href="#">Book Now</a></span>
+        <span><a href="#">Pesan sekarang</a></span>
     </div>
     <!-- float text close -->
 
@@ -148,86 +160,89 @@
         <img src="images/background/7.jpg" class="jarallax-img" alt="">
         <div class="container">
             <div class="row gx-4">
+
                 <div class="col-lg-12 text-center">
-                    <h2 class="title center">Our Rooms
+                    <h2 class="title center">Sekitaran cubic one
                         <span class="small-border"></span>
                     </h2>
                 </div>
-                <div class="col-lg-4">
-                    <div class="de-room">
-                        <div class="d-image">
-                            <div class="d-label">only 2 room left</div>
-                            <div class="d-details">
-                                <span class="d-meta-1">
-                                    <img src="images/ui/user.svg" alt="">2 Guests
-                                </span>
-                                <span class="d-meta-2">
-                                    <img src="images/ui/floorplan.svg" alt="">30 ft
-                                </span>
-                            </div>
-                            <a href="room-single.html">
-                                <img src="images/room/1.jpg" class="img-fluid" alt="">
-                                <img src="images/room/1-alt.jpg" class="d-img-hover img-fluid" alt="">
-                            </a>
-                        </div>
+<div class="row">
+    <div class="col-lg-3">
+         <!--=== Features Image Item ===-->
+   <div class="single-features-item mb-40 rounded" >
+    <div class="img-holder rounded" style="height: 420px;   background-repeat: no-repeat;
+    background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) ">
+        {{-- <img src="{{ asset('assets/images/transportasi/transportasi1.jpg') }}" style="  width: fit-content;" alt="Features Image"> --}}
+        <div class="content">
+            <div class="text">
+                <h4 class="title text-body fs-4">Transportasi
+                    rental terdekat</h4>
+                <a href="#" class="icon-btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+            </div>
+            <p class="text-body">pilihan perjalanan dan
+                reservasi kapal yang beragam</p>
+        </div>
+    </div>
+</div>
+    </div>
 
-                        <div class="d-text">
-                            <h3>Standard Room</h3>
-                            <p>Most hotels and major hospitality companies have set industry standards to classify hotel types. An upscale full-service hotel facility offers luxury...</p>
-                            <a href="room-single.html" class="btn-line"><span>Book Now For $29</span></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="de-room">
-                        <div class="d-image">
-                            <div class="d-label">only 1 room left</div>
-                            <div class="d-details">
-                                <span class="d-meta-1">
-                                    <img src="images/ui/user.svg" alt="">2 Guests
-                                </span>
-                                <span class="d-meta-2">
-                                    <img src="images/ui/floorplan.svg" alt="">35 ft
-                                </span>
-                            </div>
-                            <a href="room-single.html">
-                                <img src="images/room/2.jpg" class="img-fluid" alt="">
-                                <img src="images/room/2-alt.jpg" class="d-img-hover img-fluid" alt="">
-                            </a>
-                        </div>
+    <div class="col-lg-3">
+        <!--=== Features Image Item ===-->
+  <div class="single-features-item mb-40 rounded" >
+   <div class="img-holder rounded" style="height: 420px;   background-repeat: no-repeat;
+   background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) ">
+       {{-- <img src="{{ asset('assets/images/transportasi/transportasi1.jpg') }}" style="  width: fit-content;" alt="Features Image"> --}}
+       <div class="content">
+           <div class="text">
+               <h4 class="title text-body fs-4">Transportasi
+                   rental terdekat</h4>
+               <a href="#" class="icon-btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+           </div>
+           <p class="text-body">pilihan perjalanan dan
+               reservasi kapal yang beragam</p>
+       </div>
+   </div>
+</div>
+   </div>
+   <div class="col-lg-3">
+    <!--=== Features Image Item ===-->
+<div class="single-features-item mb-40 rounded" >
+<div class="img-holder rounded" style="height: 420px;   background-repeat: no-repeat;
+background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) ">
+   {{-- <img src="{{ asset('assets/images/transportasi/transportasi1.jpg') }}" style="  width: fit-content;" alt="Features Image"> --}}
+   <div class="content">
+       <div class="text">
+           <h4 class="title text-body fs-4">Transportasi
+               rental terdekat</h4>
+           <a href="#" class="icon-btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+       </div>
+       <p class="text-body">pilihan perjalanan dan
+           reservasi kapal yang beragam</p>
+   </div>
+</div>
+</div>
+</div>
+<div class="col-lg-3">
+    <!--=== Features Image Item ===-->
+<div class="single-features-item mb-40 rounded" >
+<div class="img-holder rounded" style="height: 420px;   background-repeat: no-repeat;
+background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) ">
+   {{-- <img src="{{ asset('assets/images/transportasi/transportasi1.jpg') }}" style="  width: fit-content;" alt="Features Image"> --}}
+   <div class="content">
+       <div class="text">
+           <h4 class="title text-body fs-4">Transportasi
+               rental terdekat</h4>
+           <a href="#" class="icon-btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+       </div>
+       <p class="text-body">pilihan perjalanan dan
+           reservasi kapal yang beragam</p>
+   </div>
+</div>
+</div>
+</div>
+    </div>
 
-                        <div class="d-text">
-                            <h3>Deluxe Room</h3>
-                            <p>Most hotels and major hospitality companies have set industry standards to classify hotel types. An upscale full-service hotel facility offers luxury...</p>
-                            <a href="room-single.html" class="btn-line"><span>Book Now For $39</span></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="de-room">
-                        <div class="d-image">
-                            <div class="d-label">only 3 room left</div>
-                            <div class="d-details">
-                                <span class="d-meta-1">
-                                    <img src="images/ui/user.svg" alt="">2 Guests
-                                </span>
-                                <span class="d-meta-2">
-                                    <img src="images/ui/floorplan.svg" alt="">40 ft
-                                </span>
-                            </div>
-                            <a href="room-single.html">
-                                <img src="images/room/3.jpg" class="img-fluid" alt="">
-                                <img src="images/room/3-alt.jpg" class="d-img-hover img-fluid" alt="">
-                            </a>
-                        </div>
-
-                        <div class="d-text">
-                            <h3>Premier Room</h3>
-                            <p>Most hotels and major hospitality companies have set industry standards to classify hotel types. An upscale full-service hotel facility offers luxury...</p>
-                            <a href="room-single.html" class="btn-line"><span>Book Now For $49</span></a>
-                        </div>
-                    </div>
-                </div>
+</div>
             </div>
         </div>
     </section>
@@ -246,13 +261,17 @@
 
                 <div class="col-lg-6 wow fadeIn">
                         <div class="padding20">
-                        <h2 class="title mb10">The Luxury Experience<br>You'll Remember
+                        <h2 class="title mb10">Hotel Kapsul Ideal untuk Solo
+                            Traveler di Malang Sejak 2018
                             <span class="small-border"></span>
                         </h2>
 
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                        <p>hotel ini menawarkan pengalaman menginap yang
+                            nyaman. Dengan lokasi yang strategis, Cubic One
+                            memberikan akses mudah ke pusat keramaian,
+                            transportasi, kuliner, dan tempat wisata.</p>
 
-                        <a href="#" class="btn-line"><span>Book Now</span>s</a>
+                        <a href="/" class="btn-line"><span>Hubungi</span> Kami</a>
 
                         </div>
                 </div>
@@ -276,17 +295,23 @@
 
                     <div id="testimonial-carousel-single" class="owl-carousel owl-theme wow fadeInUp">
                         <blockquote class="testimonial-big">
-                            <span class="d-testi">The rooms were clean, very comfortable, and the staff was amazing. They went over and beyond to help make our stay enjoyable. I highly recommend this hotel for anyone visiting downtown</span>
+                            <span class="d-testi">Kamar-kamar di hotel ini sangat bersih dan nyaman, dan stafnya sangat luar biasa.
+                                Mereka berusaha lebih dari yang diharapkan untuk membuat pengalaman
+                                menginap kami menyenangkan.</span>
                             <span class="name">Benedict Mervine, Customer</span>
                         </blockquote>
 
                         <blockquote class="testimonial-big">
-                            <span class="d-testi">They were extremely accommodating and allowed us to check in early at like 10am. We got to hotel super early and I didn’t wanna wait. So this was a big plus. The sevice was exceptional as well. Would definitely send a friend there.</span>
+                            <span class="d-testi">Kamar-kamar di hotel ini sangat bersih dan nyaman, dan stafnya sangat luar biasa.
+                                Mereka berusaha lebih dari yang diharapkan untuk membuat pengalaman
+                                menginap kami menyenangkan.</span>
                             <span class="name">Doretta Mccourtney, Customer</span>
                         </blockquote>
 
                         <blockquote class="testimonial-big">
-                            <span class="d-testi">I had a wonderful experience at the hotel. Every staff member I encountered, from the valet to the check- in to the cleaning staff were delightful and eager to help! Thank you! Will recommend to my colleagues!</span>
+                            <span class="d-testi">Kamar-kamar di hotel ini sangat bersih dan nyaman, dan stafnya sangat luar biasa.
+                                Mereka berusaha lebih dari yang diharapkan untuk membuat pengalaman
+                                menginap kami menyenangkan.</span>
                             <span class="name">Carole Hunckler, Customer</span>
                         </blockquote>
                     </div>
@@ -300,7 +325,7 @@
         <div class="subfooter">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-md-6">&copy; Copyright 2023 - Seaside Hotel by <span class="id-color">Designesia</span></div>
+                    <div class="col-md-6">&copy; Copyright <script>document.write(new Date().getFullYear());</script> - Cubicone by <span class="id-color"><a href="https://solutive.id">solutive.id</a></span></div>
                     <div class="col-md-6 text-right">
                         <div class="social-icons">
                             <a href="#"><i class="fa fa-facebook fa-lg"></i></a>

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="id">
     <head>
         <meta charset="utf-8">
         <title>Cubicone</title>
-        <link rel="icon" href="images/icon.png" type="image/gif" sizes="16x16">
+        <link rel="icon" href="images/CUBICONE1.png" type="image/gif" sizes="16x16">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="keywords" content="">
@@ -33,17 +33,15 @@
                         <div class="col-md-12">
                             <!-- logo begin -->
                             <div id="logo">
-                                <a href="index.html">
-                                    <img class="logo" src="images/logo.png" alt="">
+                                <a href="/">
+                                    <img style="width: 80%" class="logo" src="images/CUBICONE1.png" alt="">
                                 </a>
                             </div>
                             <!-- logo close -->
 
                             <!-- small button begin -->
                             <div id="mo-button-open" class="mo-bo-s1">
-                                <div></div>
-                                <div></div>
-                                <div></div>
+                             <img style="width: 100%" src="{{asset('images/layout-grid.png')}}" alt="">
                             </div>
                             <!-- small button close -->
                         </div>
@@ -64,8 +62,8 @@
 
                             <div class="pt80 pb80">
                                 <div class="mo-nav text-center">
-                                    <a href="index.html">
-                                        <img class="logo" src="images/logo.png" alt="">
+                                    <a href="/">
+                                        <img class="logo" src="images/CUBICONE1.png" alt="">
                                     </a>
 
                                     <div class="spacer-single"></div>
@@ -73,31 +71,19 @@
                                     <!-- mainmenu begin -->
                                     <ul id="mo-menu">
                                         <li>
-                                            Home
-                                            <ul>
-                                                <li><a href="index.html">Fullscreen Slider</a></li>
-                                                <li><a href="index-slider-2.html">Fullscreen Slider 2</a></li>
-                                                <li><a href="index-slider-3.html">Fullscreen Slider 3</a></li>
-                                                <li><a href="index-full-page.html">Full Page</a></li>
-                                                <li><a href="index-video-background.html">Fullsreen Video</a></li>
-                                                <li><a href="index-room-slider-1.html">New: Room Slider 1</a></li>
-                                                <li><a href="index-snowy.html">New: Slider + Snow</a></li>
-                                            </ul>
+
+
+                                            <a href="/">Home</a>
+
                                         </li>
-                                        <li><a href="about.html">About</a></li>
+                                        <li><a href="about.html">Room & Facilities</a></li>
                                         <li>
-                                            Rooms
-                                            <ul>
-                                                <li><a href="room-2-cols.html">2 Columns</a></li>
-                                                <li><a href="room.html">3 Columns</a></li>
-                                                <li><a href="room-single.html">Room Single</a></li>
-                                            </ul>
+                                            <a href="/tentang-kami">Tentang Kami</a>
+
                                         </li>
-                                        <li><a href="booking.html">Booking</a></li>
-                                        <li><a href="offer.html">Offers</a></li>
+
                                         <li><a href="blog.html">Blog</a></li>
-                                        <li><a href="gallery.html">Gallery</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="/hubungi-kami">Hubungi Kami</a></li>
                                     </ul>
                                     <!-- mainmenu close -->
 
