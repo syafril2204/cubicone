@@ -1,6 +1,95 @@
 @extends('Layout.app')
 
 @section('content')
+<div id="content" class="no-bottom no-top">
+
+    <section id="de-carousel" class="no-top no-bottom carousel slide carousel-fade text-light" data-mdb-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-mdb-target="#de-carousel" data-mdb-slide-to="0" class="active"></li>
+        <li data-mdb-target="#de-carousel" data-mdb-slide-to="1"></li>
+        <li data-mdb-target="#de-carousel" data-mdb-slide-to="2"></li>
+      </ol>
+
+      <!-- Inner -->
+      <div class="carousel-inner">
+        <!-- Single item -->
+        <div class="carousel-item active" data-bgimage="url(images/room/6.jpg)">
+          <div class="mask">
+            <div class="d-flex justify-content-center align-items-center h-100">
+              <div class="container text-white">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 sm-mb-30">
+                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block">Special Price</span>Presidential Suite</h1>
+                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Room size: 30 ft, 1 King Bed or 2 Single Bed, View Beach, Breakfast Included</p>
+                        <div class="spacer-10"></div>
+                        <a href="explore.html" class="btn-line wow fadeInRight" data-wow-delay=".6s">View Room Details</a>
+                    </div>
+                    <!-- <div class="col-lg-6">
+                        <img src="images/room/6.jpg" class="img-fluid wow fadeInRight" data-wow-delay=".6s" alt="">
+                    </div> -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Single item -->
+        <div class="carousel-item" data-bgimage="url(images/room/3.jpg)">
+          <div class="mask">
+            <div class="d-flex justify-content-center align-items-center h-100">
+              <div class="container text-white">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 sm-mb-30">
+                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block">Best Seller</span>Premier Room</h1>
+                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Room size: 30 ft, 1 King Bed or 2 Single Bed, View Beach, Breakfast Included</p>
+                        <div class="spacer-10"></div>
+                        <a href="explore.html" class="btn-line wow fadeInRight" data-wow-delay=".6s">View Room Details</a>
+                    </div>
+                    {{-- <div class="col-lg-6">
+                        <img src="images/room/3.jpg" class="img-fluid wow fadeInRight" data-wow-delay=".6s" alt="">
+                    </div> --}}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Single item -->
+        <div class="carousel-item" data-bgimage="url(images/room/4.jpg)">
+          <div class="mask">
+            <div class="d-flex justify-content-center align-items-center h-100">
+              <div class="container text-white">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 sm-mb-30">
+                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block">Special Price</span>Family Suite</h1>
+                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Room size: 30 ft, 1 King Bed or 2 Single Bed, View Beach, Breakfast Included</p>
+                        <div class="spacer-10"></div>
+                        <a href="explore.html" class="btn-line wow fadeInRight" data-wow-delay=".6s">View Room Details</a>
+                    </div>
+                    {{-- <div class="col-lg-6">
+                        <img src="images/room/4.jpg" class="img-fluid wow fadeInRight" data-wow-delay=".6s" alt="">
+                    </div> --}}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+       </div>
+      <!-- Inner -->
+
+      <!-- Controls -->
+      <a class="carousel-control-prev" href="#de-carousel" role="button" data-mdb-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#de-carousel" role="button" data-mdb-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </section>
+
+</div>
 
 <div id="content" class="no-bottom no-top">
 
@@ -15,19 +104,7 @@
     </div>
     <!-- float text close -->
 
-    <section class="no-top no-bottom jarallax vertical-center" data-video-src="mp4:video/local-video-1.mp4">
-        <div class="de-overlay v-center">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <h1>Enjoy Your<br>Dream Vacation</h1>
-                        <p class="lead">Lorem ipsum enim dolor ea anim reprehenderit laboris aliquip sed dolore.</p>
-                        <a class="btn-main" href="#"><span>Choose Room</span></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+
 
     <div class="no-top no-bottom bg-color text-light">
         <div class="container-fluid">
@@ -88,7 +165,7 @@
                                     <img src="images/ui/floorplan.svg" alt="">30 ft
                                 </span>
                             </div>
-                            <a href="02-room-single.html">
+                            <a href="room-single.html">
                                 <img src="images/room/1.jpg" class="img-fluid" alt="">
                                 <img src="images/room/1-alt.jpg" class="d-img-hover img-fluid" alt="">
                             </a>
@@ -97,7 +174,7 @@
                         <div class="d-text">
                             <h3>Standard Room</h3>
                             <p>Most hotels and major hospitality companies have set industry standards to classify hotel types. An upscale full-service hotel facility offers luxury...</p>
-                            <a href="02-room-single.html" class="btn-line"><span>Book Now For $29</span></a>
+                            <a href="room-single.html" class="btn-line"><span>Book Now For $29</span></a>
                         </div>
                     </div>
                 </div>
@@ -113,7 +190,7 @@
                                     <img src="images/ui/floorplan.svg" alt="">35 ft
                                 </span>
                             </div>
-                            <a href="02-room-single.html">
+                            <a href="room-single.html">
                                 <img src="images/room/2.jpg" class="img-fluid" alt="">
                                 <img src="images/room/2-alt.jpg" class="d-img-hover img-fluid" alt="">
                             </a>
@@ -122,7 +199,7 @@
                         <div class="d-text">
                             <h3>Deluxe Room</h3>
                             <p>Most hotels and major hospitality companies have set industry standards to classify hotel types. An upscale full-service hotel facility offers luxury...</p>
-                            <a href="02-room-single.html" class="btn-line"><span>Book Now For $39</span></a>
+                            <a href="room-single.html" class="btn-line"><span>Book Now For $39</span></a>
                         </div>
                     </div>
                 </div>
@@ -138,7 +215,7 @@
                                     <img src="images/ui/floorplan.svg" alt="">40 ft
                                 </span>
                             </div>
-                            <a href="02-room-single.html">
+                            <a href="room-single.html">
                                 <img src="images/room/3.jpg" class="img-fluid" alt="">
                                 <img src="images/room/3-alt.jpg" class="d-img-hover img-fluid" alt="">
                             </a>
@@ -147,7 +224,7 @@
                         <div class="d-text">
                             <h3>Premier Room</h3>
                             <p>Most hotels and major hospitality companies have set industry standards to classify hotel types. An upscale full-service hotel facility offers luxury...</p>
-                            <a href="02-room-single.html" class="btn-line"><span>Book Now For $49</span></a>
+                            <a href="room-single.html" class="btn-line"><span>Book Now For $49</span></a>
                         </div>
                     </div>
                 </div>
@@ -241,5 +318,4 @@
     </footer>
 
 </div>
-
 @endsection

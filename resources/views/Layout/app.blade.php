@@ -15,71 +15,37 @@
         <link rel="stylesheet" href="{{asset('css/plugins.css')}}" type="text/css">
         <link rel="stylesheet" href="{{asset('css/style.css')}}" type="text/css">
         <link rel="stylesheet" href="{{asset('css/color.css')}}" type="text/css">
+                <!-- supersized -->
+                <link rel='stylesheet' href="{{asset('js/supersized/css/supersized.css')}}" type='text/css'>
+                <link rel='stylesheet' href="{{asset('js/supersized/theme/supersized.shutter.css')}}" type='text/css'>
+
 
         <!-- color scheme -->
         <link rel="stylesheet" href="{{asset('css/colors/brown.css')}}" type="text/css" id="colors">
     </head>
-    <body class="has-menu-bar">
+    <body >
 
         <div id="wrapper">
             <!-- header begin -->
-            <header class="header-fullwidth transparent">
+            <header class="header-fullwidth menu-expand transparent">
                 <div class="container-fluid">
-                    <div class="row">
+                    <div class="row-fluid">
                         <div class="col-md-12">
-
-                            <div class="de-flex">
-                                <div class="de-flex-col">
-                                    <!-- logo begin -->
-                                    <div id="logo">
-                                        <a href="02-index.html">
-                                            <img class="logo" src="images/logo.png" alt="">
-                                        </a>
-                                    </div>
-                                    <!-- logo close -->
-                                </div>
-
-                                <div class="de-flex-col">
-
-                                    <ul id="mainmenu">
-                                        <li>
-                                            <a href="#">Home</a>
-                                            <ul>
-                                                <li><a href="02-index.html">Fullscreen Slider</a></li>
-                                                <li><a href="02-index-slider-2.html">Fullscreen Slider 2</a></li>
-                                                <li><a href="02-index-slider-3.html">Fullscreen Slider 3</a></li>
-                                                <li><a href="02-index-full-page.html">Full Page</a></li>
-                                                <li><a href="02-index-video-background.html">Fullsreen Video</a></li>
-                                                <li><a href="02-index-room-slider-1.html">New: Room Slider 1</a></li>
-                                                <li><a href="02-index-snowy.html">New: Slider + Snow</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="02-about.html">About</a></li>
-                                        <li>
-                                            <a href="#">Rooms</a>
-                                            <ul>
-                                                <li><a href="02-room-2-cols.html">2 Columns</a></li>
-                                                <li><a href="02-room.html">3 Columns</a></li>
-                                                <li><a href="02-room-single.html">Room Single</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="02-booking.html">Booking</a></li>
-                                        <li><a href="02-offer.html">Offers</a></li>
-                                        <li><a href="02-blog.html">Blog</a></li>
-                                        <li><a href="02-gallery.html">Gallery</a></li>
-                                        <li><a href="02-contact.html">Contact</a></li>
-                                    </ul>
-                                </div>
-
-                                <div class="de-flex-col">
-                                    <div class="d-extra">
-                                        <a class="btn-main" href="02-booking.html">Booking</a>
-                                    </div>
-                                    <div id="menu-btn"></div>
-                                </div>
-
+                            <!-- logo begin -->
+                            <div id="logo">
+                                <a href="index.html">
+                                    <img class="logo" src="images/logo.png" alt="">
+                                </a>
                             </div>
+                            <!-- logo close -->
 
+                            <!-- small button begin -->
+                            <div id="mo-button-open" class="mo-bo-s1">
+                                <div></div>
+                                <div></div>
+                                <div></div>
+                            </div>
+                            <!-- small button close -->
                         </div>
                     </div>
                 </div>
@@ -98,7 +64,7 @@
 
                             <div class="pt80 pb80">
                                 <div class="mo-nav text-center">
-                                    <a href="02-index.html">
+                                    <a href="index.html">
                                         <img class="logo" src="images/logo.png" alt="">
                                     </a>
 
@@ -109,29 +75,29 @@
                                         <li>
                                             Home
                                             <ul>
-                                                <li><a href="02-index.html">Fullscreen Slider</a></li>
-                                                <li><a href="02-index-slider-2.html">Fullscreen Slider 2</a></li>
-                                                <li><a href="02-index-slider-3.html">Fullscreen Slider 3</a></li>
-                                                <li><a href="02-index-full-page.html">Full Page</a></li>
-                                                <li><a href="02-index-video-background.html">Fullsreen Video</a></li>
-                                                <li><a href="02-index-room-slider-1.html">New: Room Slider 1</a></li>
-                                                <li><a href="02-index-snowy.html">New: Slider + Snow</a></li>
+                                                <li><a href="index.html">Fullscreen Slider</a></li>
+                                                <li><a href="index-slider-2.html">Fullscreen Slider 2</a></li>
+                                                <li><a href="index-slider-3.html">Fullscreen Slider 3</a></li>
+                                                <li><a href="index-full-page.html">Full Page</a></li>
+                                                <li><a href="index-video-background.html">Fullsreen Video</a></li>
+                                                <li><a href="index-room-slider-1.html">New: Room Slider 1</a></li>
+                                                <li><a href="index-snowy.html">New: Slider + Snow</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="02-about.html">About</a></li>
+                                        <li><a href="about.html">About</a></li>
                                         <li>
                                             Rooms
                                             <ul>
-                                                <li><a href="02-room-2-cols.html">2 Columns</a></li>
-                                                <li><a href="02-room.html">3 Columns</a></li>
-                                                <li><a href="02-room-single.html">Room Single</a></li>
+                                                <li><a href="room-2-cols.html">2 Columns</a></li>
+                                                <li><a href="room.html">3 Columns</a></li>
+                                                <li><a href="room-single.html">Room Single</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="02-booking.html">Booking</a></li>
+                                        <li><a href="booking.html">Booking</a></li>
                                         <li><a href="offer.html">Offers</a></li>
-                                        <li><a href="02-blog.html">Blog</a></li>
-                                        <li><a href="02-gallery.html">Gallery</a></li>
-                                        <li><a href="02-contact.html">Contact</a></li>
+                                        <li><a href="blog.html">Blog</a></li>
+                                        <li><a href="gallery.html">Gallery</a></li>
+                                        <li><a href="contact.html">Contact</a></li>
                                     </ul>
                                     <!-- mainmenu close -->
 
@@ -147,6 +113,41 @@
 
         <script src="{{asset('js/plugins.js')}}"></script>
         <script src="{{asset('js/designesia.js')}}"></script>
+        <script src="{{asset('js/supersized/js/supersized.3.2.7.js')}}"></script>
+        <script src="{{asset('js/supersized/theme/supersized.shutter.min.js')}}"></script>
 
+        <script>
+            // <![CDATA[  <-- For SVG support
+                (function () {
+                    function refreshCSS() {
+                        var sheets = [].slice.call(document.getElementsByTagName("link"));
+                        var head = document.getElementsByTagName("head")[0];
+                        for (var i = 0; i < sheets.length; ++i) {
+                            var elem = sheets[i];
+                            var parent = elem.parentElement || head;
+                            parent.removeChild(elem);
+                            var rel = elem.rel;
+                            if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+                                var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+                                elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+                            }
+                            parent.appendChild(elem);
+                        }
+                    }
+                    var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+                    var address = protocol + window.location.host + window.location.pathname + '/ws';
+                    var socket = new WebSocket(address);
+                    socket.onmessage = function (msg) {
+                        if (msg.data == 'reload') window.location.reload();
+                        else if (msg.data == 'refreshcss') refreshCSS();
+                    };
+                    if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+                        console.log('Live reload enabled.');
+                        sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+                    }
+                })();
+
+
+        </script>
     </body>
 </html>

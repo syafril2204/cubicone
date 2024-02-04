@@ -9,7 +9,7 @@
 * section
 * footer
 * sidebar
-* blog 
+* blog
 * products
 * contact
 * coming soon page
@@ -8257,7 +8257,7 @@ section.no-padding {
   font-size: 16px;
   margin-left: 10px;
  }
- 
+
  .menu-item .c1 span{
    padding:2px 4px 2px 5px;
    color:#ffffff;
@@ -8267,37 +8267,37 @@ section.no-padding {
    font-weight:bold;
    font-size: 10px;
  }
- 
+
  .menu-item.desc .c1{
  font-weight:500;
  }
- 
- 
+
+
  .menu-item.desc{
  margin-bottom:5px;
  }
- 
+
 .menu-item .c1 span.disc{
 margin-right:10px;
 text-transform:uppercase;
 color:#fff;
 padding:2px 5px 2px 10px;
 }
- 
+
 .menu-item.thead .c2, .menu-item.thead .c3{
   font-family:"Montserrat";
   font-size:16px;
   font-weight:600;
 }
 
-.menu-item .c2, .menu-item .c3{    
+.menu-item .c2, .menu-item .c3{
     white-space: nowrap;
     width:20%;
   text-align:center;
   line-height:1.5em;
   font-size:18px;
 }
- 
+
 .menu-item.thead .c2 span, .menu-item.thead .c3 span{
 display:block;
  padding-right:10px;
@@ -9738,7 +9738,7 @@ header.header-fullwidth{
   padding-right: 40px;
 }
 
-/* -------------------------------------------------- 
+/* --------------------------------------------------
 	design for 480px
 /* -------------------------------------------------- */
 @media only screen and (max-width: 767px) {
@@ -9789,7 +9789,7 @@ header.header-fullwidth{
   }
 }
 
-/* -------------------------------------------------- 
+/* --------------------------------------------------
 	design for 768px
 	/* ================================================== */
 @media (min-width: 768px) and (max-width: 979px) {
@@ -10523,8 +10523,8 @@ header .d-extra{
   }
 }
 
-/* -------------------------------------------------- 
-	custom for 320px & 480px 
+/* --------------------------------------------------
+	custom for 320px & 480px
 	/* -------------------------------------------------- */
 @media only screen and (max-width: 767px) {
   .container {
@@ -10646,7 +10646,7 @@ header .d-extra{
   }
 }
 
-/* -------------------------------------------------- 
+/* --------------------------------------------------
 	design for 480px
 	/* -------------------------------------------------- */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
@@ -10660,7 +10660,7 @@ header .d-extra{
   }
 }
 
-/* -------------------------------------------------- 
+/* --------------------------------------------------
 	design for 320px
 	/* -------------------------------------------------- */
 @media only screen and (max-width: 480px) {
