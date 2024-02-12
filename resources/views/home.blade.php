@@ -109,7 +109,7 @@
     <div class="no-top no-bottom bg-color text-light">
         <div class="container-fluid">
             <div class="row g-0">
-                <div class="col-md-4 p-3" data-bgcolor="rgba(0, 0, 0, .2)">
+                <div class="col-md-4 p-3" data-bgcolor="rgba(255, 180, 68)">
                     <div class="info-box padding20">
                         <i class="icon_clock_alt"></i>
                         <div class="info-box_text">
@@ -119,7 +119,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 p-3" data-bgcolor="rgba(0, 0, 0, .4)">
+                <div class="col-md-4 p-3" data-bgcolor="rgba(255, 165, 0)">
                     <div class="info-box padding20">
                         <i class="icon_house_alt"></i>
                         <div class="info-box_text">
@@ -129,7 +129,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-4 p-3" data-bgcolor="rgba(0, 0, 0, .6)">
+                <div class="col-md-4 p-3" data-bgcolor="rgba(208, 135, 14)">
                     <div class="info-box padding20">
                         <i class="icon_headphones"></i>
                         <div class="info-box_text">
@@ -235,7 +235,7 @@ background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) 
         </div>
     </section>
 
-    <section id="section-intro" class="pt60" data-bgcolor="#79552A">
+    <section id="section-intro" class="pt60" data-bgcolor="#FFB444">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-3 col-6">
@@ -249,17 +249,17 @@ background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) 
 
                 <div class="col-lg-6 wow fadeIn">
                         <div class="padding20">
-                        <h2 class="title mb10">Hotel Kapsul Ideal untuk Solo
+                        <h2 style="color: #5A3D10; -webkit-text-stroke-color:#5A3D10" class="title mb10 fw-bold fs-3 boder-0">Hotel Kapsul Ideal untuk Solo
                             Traveler di Malang Sejak 2018
-                            <span class="small-border"></span>
+                            {{-- <span class="small-border"></span> --}}
                         </h2>
 
-                        <p>hotel ini menawarkan pengalaman menginap yang
+                        <p style="color: #5A3D10" class="fw-bold ">Hotel ini menawarkan pengalaman menginap yang
                             nyaman. Dengan lokasi yang strategis, Cubic One
                             memberikan akses mudah ke pusat keramaian,
                             transportasi, kuliner, dan tempat wisata.</p>
 
-                        <a href="/" class="btn-line"><span>Hubungi</span> Kami</a>
+                        <a style="color: #5A3D10; border-color:#5A3D10; padding: 10px; border-radius: 5px" href="/" class="btn-line"><span>Hubungi</span> Kami</a>
 
                         </div>
                 </div>
