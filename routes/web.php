@@ -24,3 +24,11 @@ Route::get('/tentang-kami', function () {
 Route::get('/hubungi-kami', function () {
     return view('hubungi');
 });
+
+Route::get('/rooms', function () {
+    return view('room');
+});
+
+Route::get('/blogs', function () {
+    return view('blog');
+});

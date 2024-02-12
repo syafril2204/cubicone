@@ -20,14 +20,10 @@
               <div class="container text-white">
                 <div class="row align-items-center">
                     <div class="col-lg-6 sm-mb-30">
-                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block"></span>Rumah Anda ketika
-                            jauh dari rumah.</h1>
-                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Selamat datang di hotel kapsul kami yang unik, "Rumah Anda ketika
-                            jauh dari rumah." Kami tawarkan kenyamanan dan inovasi dalam kapsul
-                            ergonomis dengan privasi, fasilitas modern, dan layanan ramah untuk
-                            pengalaman menginap tak terlupakan.</p>
+                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block"></span>Cubic One Capsule Malang.</h1>
+                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Selamat datang di Cubic One Hotel Capsule, pilihan terbaik untuk penginapan unik dan nyaman di Malang. Kami memadukan desain interior modern yang dirancang dengan gaya minimalis dan dilengkapi dengan berbagai furnitur stylish kami, menciptakan pengalaman menginap yang tak terlupakan di kota Malang.</p>
                         <div class="spacer-10"></div>
-                        <a href="/" class="btn-line wow fadeInRight" data-wow-delay=".6s">Selengkapnya </a>
+                        <a href="/rooms" class="btn-line wow fadeInRight" data-wow-delay=".6s">Selengkapnya </a>
                     </div>
                     <!-- <div class="col-lg-6">
                         <img src="images/room/6.jpg" class="img-fluid wow fadeInRight" data-wow-delay=".6s" alt="">
@@ -45,14 +41,10 @@
               <div class="container text-white">
                 <div class="row align-items-center">
                     <div class="col-lg-6 sm-mb-30">
-                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block"></span>Rumah Anda ketika
-                            jauh dari rumah.</h1>
-                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Selamat datang di hotel kapsul kami yang unik, "Rumah Anda ketika
-                            jauh dari rumah." Kami tawarkan kenyamanan dan inovasi dalam kapsul
-                            ergonomis dengan privasi, fasilitas modern, dan layanan ramah untuk
-                            pengalaman menginap tak terlupakan.</p>
+                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block"></span>Home Away from Home</h1>
+                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Cubic One Hotel Capsule adalah hotel yang cocok untuk wisatawan atau solo traveler yang ingin menghemat biaya akomodasi, namun tetap ingin mendapatkan kenyamanan dan fasilitas yang memadai. </p>
                         <div class="spacer-10"></div>
-                        <a href="/" class="btn-line wow fadeInRight" data-wow-delay=".6s">Selengkapnya </a>
+                        <a href="/rooms" class="btn-line wow fadeInRight" data-wow-delay=".6s">Selengkapnya </a>
                     </div>
                     {{-- <div class="col-lg-6">
                         <img src="images/room/3.jpg" class="img-fluid wow fadeInRight" data-wow-delay=".6s" alt="">
@@ -70,14 +62,10 @@
               <div class="container text-white">
                 <div class="row align-items-center">
                     <div class="col-lg-6 sm-mb-30">
-                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block"></span>Rumah Anda ketika
-                            jauh dari rumah.</h1>
-                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Selamat datang di hotel kapsul kami yang unik, "Rumah Anda ketika
-                            jauh dari rumah." Kami tawarkan kenyamanan dan inovasi dalam kapsul
-                            ergonomis dengan privasi, fasilitas modern, dan layanan ramah untuk
-                            pengalaman menginap tak terlupakan.</p>
+                        <h1 class="mb-3 wow fadeInRight"><span class="deco id-color d-block"></span>Cubic One Hotel Capsule Malang</h1>
+                        <p class="lead wow fadeInRight" data-wow-delay=".3s">Didirikan sejak tahun 2018, penginapan Cubic One Capsule ini menawarkan pengalaman menginap yang nyaman dan tidak terlupakan di Malang. Dengan pelayanan terbaik kami, pengalaman liburan di Malang menjadi lebih menyenangkan dan memuaskan dengan hotel yang bisa diakses dengan mudah. Jadi temukanlah pengalaman menginap yang unik di Malang dengan Cubic One Capsule Hotel!</p>
                         <div class="spacer-10"></div>
-                        <a href="/" class="btn-line wow fadeInRight" data-wow-delay=".6s">Selengkapnya </a>
+                        <a href="/rooms" class="btn-line wow fadeInRight" data-wow-delay=".6s">Selengkapnya </a>
                     </div>
                     {{-- <div class="col-lg-6">
                         <img src="images/room/4.jpg" class="img-fluid wow fadeInRight" data-wow-delay=".6s" alt="">
@@ -327,14 +315,7 @@ background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) 
                 <div class="row">
                     <div class="col-md-6">&copy; Copyright <script>document.write(new Date().getFullYear());</script> - Cubicone by <span class="id-color"><a href="https://solutive.id">solutive.id</a></span></div>
                     <div class="col-md-6 text-right">
-                        <div class="social-icons">
-                            <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                            <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                            <a href="#"><i class="fa fa-rss fa-lg"></i></a>
-                            <a href="#"><i class="fa fa-google-plus fa-lg"></i></a>
-                            <a href="#"><i class="fa fa-skype fa-lg"></i></a>
-                            <a href="#"><i class="fa fa-dribbble fa-lg"></i></a>
-                        </div>
+
                     </div>
                 </div>
             </div>

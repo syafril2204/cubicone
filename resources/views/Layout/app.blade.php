@@ -76,7 +76,7 @@
                                             <a href="/">Home</a>
 
                                         </li>
-                                        <li><a href="about.html">Room & Facilities</a></li>
+                                        <li><a href="/rooms">Room & Facilities</a></li>
                                         <li>
                                             <a href="/tentang-kami">Tentang Kami</a>
 
