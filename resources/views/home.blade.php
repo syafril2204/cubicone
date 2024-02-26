@@ -1,6 +1,7 @@
 @extends('Layout.app')
 
 @section('content')
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 <div id="content" class="no-bottom no-top">
 
     <section id="de-carousel" class="no-top no-bottom carousel slide carousel-fade text-light" data-mdb-ride="carousel">
@@ -155,79 +156,85 @@
                     </h2>
                 </div>
 <div class="row">
-    <div class="col-lg-3">
-         <!--=== Features Image Item ===-->
-   <div class="single-features-item mb-40 rounded" >
-    <div class="img-holder rounded" style="height: 420px;   background-repeat: no-repeat;
-    background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) ">
-        {{-- <img src="{{ asset('assets/images/transportasi/transportasi1.jpg') }}" style="  width: fit-content;" alt="Features Image"> --}}
-        <div class="content">
-            <div class="text">
-                <h4 class="title text-body fs-4">Transportasi
-                    rental terdekat</h4>
-                <a href="#" class="icon-btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-            </div>
-            <p class="text-body">pilihan perjalanan dan
-                reservasi kapal yang beragam</p>
-        </div>
-    </div>
-</div>
-    </div>
+    <div class="owl-carousel owl-carousel1">
 
-    <div class="col-lg-3">
-        <!--=== Features Image Item ===-->
-  <div class="single-features-item mb-40 rounded" >
+        <div class="item">
+            <!--=== Features Image Item ===-->
+      <div class="single-features-item mb-40 rounded" >
+       <div class="img-holder rounded" style="height: 420px;   background-repeat: no-repeat;
+       background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) ">
+           {{-- <img src="{{ asset('assets/images/transportasi/transportasi1.jpg') }}" style="  width: fit-content;" alt="Features Image"> --}}
+           <div class="content">
+               <div class="text">
+                   <h4 class="title text-body fs-4">Transportasi
+                       rental terdekat</h4>
+                   <a href="#" class="icon-btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+               </div>
+               <p class="text-body">pilihan perjalanan dan
+                   reservasi kapal yang beragam</p>
+           </div>
+       </div>
+   </div>
+       </div>
+
+       <div class="item">
+           <!--=== Features Image Item ===-->
+     <div class="single-features-item mb-40 rounded" >
+      <div class="img-holder rounded" style="height: 420px;   background-repeat: no-repeat;
+      background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) ">
+          {{-- <img src="{{ asset('assets/images/transportasi/transportasi1.jpg') }}" style="  width: fit-content;" alt="Features Image"> --}}
+          <div class="content">
+              <div class="text">
+                  <h4 class="title text-body fs-4">Transportasi
+                      rental terdekat</h4>
+                  <a href="#" class="icon-btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+              </div>
+              <p class="text-body">pilihan perjalanan dan
+                  reservasi kapal yang beragam</p>
+          </div>
+      </div>
+   </div>
+      </div>
+      <div class="item ">
+       <!--=== Features Image Item ===-->
+   <div class="single-features-item mb-40 rounded" >
    <div class="img-holder rounded" style="height: 420px;   background-repeat: no-repeat;
    background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) ">
-       {{-- <img src="{{ asset('assets/images/transportasi/transportasi1.jpg') }}" style="  width: fit-content;" alt="Features Image"> --}}
-       <div class="content">
-           <div class="text">
-               <h4 class="title text-body fs-4">Transportasi
-                   rental terdekat</h4>
-               <a href="#" class="icon-btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-           </div>
-           <p class="text-body">pilihan perjalanan dan
-               reservasi kapal yang beragam</p>
-       </div>
+      {{-- <img src="{{ asset('assets/images/transportasi/transportasi1.jpg') }}" style="  width: fit-content;" alt="Features Image"> --}}
+      <div class="content">
+          <div class="text">
+              <h4 class="title text-body fs-4">Transportasi
+                  rental terdekat</h4>
+              <a href="#" class="icon-btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+          </div>
+          <p class="text-body">pilihan perjalanan dan
+              reservasi kapal yang beragam</p>
+      </div>
    </div>
-</div>
    </div>
-   <div class="col-lg-3">
-    <!--=== Features Image Item ===-->
-<div class="single-features-item mb-40 rounded" >
-<div class="img-holder rounded" style="height: 420px;   background-repeat: no-repeat;
-background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) ">
-   {{-- <img src="{{ asset('assets/images/transportasi/transportasi1.jpg') }}" style="  width: fit-content;" alt="Features Image"> --}}
-   <div class="content">
-       <div class="text">
-           <h4 class="title text-body fs-4">Transportasi
-               rental terdekat</h4>
-           <a href="#" class="icon-btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-       </div>
-       <p class="text-body">pilihan perjalanan dan
-           reservasi kapal yang beragam</p>
    </div>
-</div>
-</div>
-</div>
-<div class="col-lg-3">
-    <!--=== Features Image Item ===-->
-<div class="single-features-item mb-40 rounded" >
-<div class="img-holder rounded" style="height: 420px;   background-repeat: no-repeat;
-background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) ">
-   {{-- <img src="{{ asset('assets/images/transportasi/transportasi1.jpg') }}" style="  width: fit-content;" alt="Features Image"> --}}
-   <div class="content">
-       <div class="text">
-           <h4 class="title text-body fs-4">Transportasi
-               rental terdekat</h4>
-           <a href="#" class="icon-btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-       </div>
-       <p class="text-body">pilihan perjalanan dan
-           reservasi kapal yang beragam</p>
+   <div class="item">
+       <!--=== Features Image Item ===-->
+   <div class="single-features-item mb-40 rounded" >
+   <div class="img-holder rounded" style="height: 420px;   background-repeat: no-repeat;
+   background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) ">
+      {{-- <img src="{{ asset('assets/images/transportasi/transportasi1.jpg') }}" style="  width: fit-content;" alt="Features Image"> --}}
+      <div class="content">
+          <div class="text">
+              <h4 class="title text-body fs-4">Transportasi
+                  rental terdekat</h4>
+              <a href="#" class="icon-btn"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+          </div>
+          <p class="text-body">pilihan perjalanan dan
+              reservasi kapal yang beragam</p>
+      </div>
    </div>
-</div>
-</div>
-</div>
+   </div>
+   </div>
+
+    </div>
+
+
     </div>
 
 </div>
@@ -322,6 +329,75 @@ background-size: cover; background-image: url({{ asset('images/room/2.jpg') }}) 
         </div>
         <a href="#" id="back-to-top"></a>
     </footer>
+    <script>
+    $('.owl-carousel1').owlCarousel({
+        items: 1,
+      margin: 35,
+      loop: true,
+      nav: false,
+    //   navText: ['Back','Next'],
+      dots: false,
+      dotsEach: true,
+      autoplay: true,
+      autoplaySpeed: 500,
+
+    responsiveClass:true,
+    responsive:{
+        0:{
+            items:1,
+            nav:false
+        },
+        600:{
+            items:3,
+            nav:false
+        },
+        1000:{
+            items:4,
+            nav:true,
+            loop:true
+        }
+    }
+})
+
+
+    </script>
+
+    {{-- <style>.owl-carousel .owl-nav .owl-prev, --}}
+        .owl-carousel .owl-nav .owl-next,
+        .owl-carousel .owl-dot {
+          /* font-family: 'Material Icons'; */
+          font-size: 4rem;
+      }
+      .owl-nav {height:0;margin:0;}
+      .owl-carousel .owl-nav .owl-prev:before{
+          /* font-family: "Material Icons";
+          content: ""; */
+          /* font-size: 4rem; */
+          margin-left:16px;
+          position: absolute;
+            top: 40%;
+          left: 0px;
+          height: auto;
+          text-shadow: 0px 0px 5px rgba(0,0,0,0.1),
+                       0px 0px 8px rgba(0,0,0,0.05),
+                       0px 0px 12px rgba(0,0,0,0.05);
+      }
+      .owl-carousel .owl-nav .owl-next:after{
+          /* font-family: "Material Icons";
+          content: "\E5CC";
+          font-size: 4rem; */
+          margin-right: 16px;
+          position: absolute;
+            top: 40%;
+          right: 0px;
+          height: 100%;
+          text-shadow: 0px 0px 5px rgba(0,0,0,0.1),
+                       0px 0px 8px rgba(0,0,0,0.05),
+                       0px 0px 12px rgba(0,0,0,0.05);
+      }
+
+
+      </style>
 
 </div>
 @endsection

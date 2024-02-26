@@ -10712,7 +10712,7 @@ header .d-extra{
     bottom: 30px;
     left: 30px;
     right: 30px;
-    padding: 35px 25px 25px;
+    padding: 35px 25px 5px;
     -webkit-box-shadow: 0px 10px 60px rgba(0, 0, 0, 0.1);
     box-shadow: 0px 10px 60px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
@@ -10738,7 +10738,7 @@ header .d-extra{
 
   @media only screen and (min-width: 1200px) and (max-width: 1600px) {
     .single-features-item .img-holder .content {
-      padding: 35px 25px 25px;
+      padding: 35px 25px 5px;
     }
   }
 
@@ -11422,7 +11422,7 @@ header .d-extra{
 
     color: #333;
 
-    margin: 1.5rem 0 2rem 0;
+    /* margin: 1.5rem 0 2rem 0; */
 
     }
 

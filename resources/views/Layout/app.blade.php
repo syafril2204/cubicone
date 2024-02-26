@@ -18,7 +18,12 @@
                 <!-- supersized -->
                 <link rel='stylesheet' href="{{asset('js/supersized/css/supersized.css')}}" type='text/css'>
                 <link rel='stylesheet' href="{{asset('js/supersized/theme/supersized.shutter.css')}}" type='text/css'>
-
+                <link href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+                <link href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.theme.default.min.css" rel="stylesheet">
+                <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery.min.js">
+                </script>
+                 <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js">
+                   </script>
 
         <!-- color scheme -->
         <link rel="stylesheet" href="{{asset('css/colors/brown.css')}}" type="text/css" id="colors">
