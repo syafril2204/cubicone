@@ -198,6 +198,121 @@
             </div>
         </div>
     </section>
+
+    <section id="section-main" class="no-bg no-top" aria-label="section-menu">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-lg-4">
+                    <div class="de-room">
+                        <div class="d-image">
+
+                            <div class="d-details">
+                                <span class="d-meta-1">
+                                    <img src="images/ui/user.svg" alt="">2 Guests
+                                </span>
+                                <span class="d-meta-2">
+                                    <img src="images/ui/floorplan.svg" alt="">30 ft
+                                </span>
+                            </div>
+                            <a href="02-room-single.html">
+                                <img src="images/room/1.jpg" class="img-fluid" alt="">
+                                <img src="images/room/1-alt.jpg" class="d-img-hover img-fluid" alt="">
+                            </a>
+                        </div>
+
+                        <div class="d-text">
+                            <h3>Standard Room</h3>
+                            <p>Most hotels and major hospitality companies have set industry standards to classify hotel types. An upscale full-service hotel facility offers luxury...</p>
+
+                            <h3>Room Facilities</h3>
+                            <ul class="ul-style-2">
+                                <li>48" HD TV with more than 60 channels</li>
+                                <li>Coffee and tea makers</li>
+                                <li>Hot &amp; cold bathing</li>
+                                <li>High comfortable mattress bed</li>
+                                <li>Hight quality bed sheets</li>
+                                <li>Free WIFI internet connection</li>
+                                <li>Connecting room by request</li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="de-room">
+                        <div class="d-image">
+
+                            <div class="d-details">
+                                <span class="d-meta-1">
+                                    <img src="images/ui/user.svg" alt="">2 Guests
+                                </span>
+                                <span class="d-meta-2">
+                                    <img src="images/ui/floorplan.svg" alt="">35 ft
+                                </span>
+                            </div>
+                            <a href="02-room-single.html">
+                                <img src="images/room/2.jpg" class="img-fluid" alt="">
+                                <img src="images/room/2-alt.jpg" class="d-img-hover img-fluid" alt="">
+                            </a>
+                        </div>
+
+                        <div class="d-text">
+                            <h3>Deluxe Room</h3>
+                            <p>Most hotels and major hospitality companies have set industry standards to classify hotel types. An upscale full-service hotel facility offers luxury...</p>
+                            <h3>Room Facilities</h3>
+                            <ul class="ul-style-2">
+                                <li>48" HD TV with more than 60 channels</li>
+                                <li>Coffee and tea makers</li>
+                                <li>Hot &amp; cold bathing</li>
+                                <li>High comfortable mattress bed</li>
+                                <li>Hight quality bed sheets</li>
+                                <li>Free WIFI internet connection</li>
+                                <li>Connecting room by request</li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="de-room">
+                        <div class="d-image">
+
+                            <div class="d-details">
+                                <span class="d-meta-1">
+                                    <img src="images/ui/user.svg" alt="">2 Guests
+                                </span>
+                                <span class="d-meta-2">
+                                    <img src="images/ui/floorplan.svg" alt="">40 ft
+                                </span>
+                            </div>
+                            <a href="02-room-single.html">
+                                <img src="images/room/3.jpg" class="img-fluid" alt="">
+                                <img src="images/room/3-alt.jpg" class="d-img-hover img-fluid" alt="">
+                            </a>
+                        </div>
+
+                        <div class="d-text">
+                            <h3>Premier Room</h3>
+                            <p>Most hotels and major hospitality companies have set industry standards to classify hotel types. An upscale full-service hotel facility offers luxury...</p>
+                            <h3>Room Facilities</h3>
+                            <ul class="ul-style-2">
+                                <li>48" HD TV with more than 60 channels</li>
+                                <li>Coffee and tea makers</li>
+                                <li>Hot &amp; cold bathing</li>
+                                <li>High comfortable mattress bed</li>
+                                <li>Hight quality bed sheets</li>
+                                <li>Free WIFI internet connection</li>
+                                <li>Connecting room by request</li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
     <!-- subheader close -->
     <!-- footer begin -->
 

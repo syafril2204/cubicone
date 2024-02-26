@@ -39,4 +39,5 @@ Route::post('actionlogin', [LoginController::class, 'actionlogin'])->name('actio
 
 
 Route::get('/admin', [HomeController::class, 'index'])->name('admin')->middleware('auth');
+Route::get('/admin/home', [HomeController::class, 'home'])->name('home')->middleware('auth');
 Route::get('actionlogout', [LoginController::class, 'actionlogout'])->name('actionlogout')->middleware('auth');

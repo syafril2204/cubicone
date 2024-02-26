@@ -82,7 +82,7 @@
 
                                         </li>
 
-                                        <li><a href="blog.html">Blog</a></li>
+                                        <li><a href="/blogs">Blog</a></li>
                                         <li><a href="/hubungi-kami">Hubungi Kami</a></li>
                                     </ul>
                                     <!-- mainmenu close -->

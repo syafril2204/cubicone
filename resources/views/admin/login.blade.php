@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Admin</title>
 
-    <link rel="stylesheet" href="{{asset('admin/css/styles.min.css')}}" />
+    <link rel="stylesheet" href="{{asset('admins/css/styles.min.css')}}" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
     <link rel="icon" href="./assets/images/logo.png" sizes="32x32" />
@@ -25,7 +25,7 @@
                         <div class="card mb-0" style="border-radius: 15px">
                             <div class="card-body">
 
-                                <p style="color: #5A3D10; font-weight:bold" class="text-center">Admin Dashboard</p>
+                                <p style="color: rgb(255, 165, 0); font-weight:bold" class="text-center">Admin Dashboard</p>
                                 <form action="{{ route('actionlogin') }}" method="post">
                                 @csrf
                                     @if(session('error'))
@@ -42,7 +42,7 @@
                                         <input type="password" class="form-control" name="password" id="exampleInputPassword1">
                                     </div>
 
-                                    <button type="submit" class="btn btn-primary w-100 py-8 fs-4 mb-4 rounded-2" style="background-color: #5A3D10; border-color:#5A3D10">Sign In</button>
+                                    <button type="submit" class="btn btn-primary w-100 py-8 fs-4 mb-4 rounded-2" style="background-color: rgb(255, 165, 0); border-color: rgb(255, 165, 0)">Sign In</button>
 
                                 </form>
                             </div>
